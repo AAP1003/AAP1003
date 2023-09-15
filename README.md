@@ -38,7 +38,7 @@ Saya memanfaatkan bahasa pemrograman seperti Python dan R untuk analisis data bi
 - **Tujuan**: Mempelajari dan mengintegrasikan pemrograman untuk mengelola dan mengoptimalkan operasi bisnis serta pembuatan situs web yang efisien
 
 ### Kemampuan Pemrograman
-- **Python & R**: Saya memiliki pemahaman mendalam tentang Python dan R, dan saya menggunakannya untuk menganalisis data bisnis dan mengembangkan solusi berbasis data.
+- **Statistik**: Saya memiliki pemahaman mendalam tentang Python dan R, dan saya menggunakannya untuk menganalisis data bisnis dan mengembangkan solusi berbasis data.
 - **Web Development**: Saya dapat menggunakan HTML, CSS, dan JavaScript untuk membuat dan mengelola situs web bisnis yang sesuai dengan kebutuhan saya.
 - **Keamanan dan SEO**: Saya memahami praktik terbaik dalam keamanan web dan SEO untuk meningkatkan visibilitas online bisnis saya.
 
