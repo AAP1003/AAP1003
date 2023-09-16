@@ -2,7 +2,7 @@
 
 ## Ekonomi dan Bisnis
 - **Nama**: Aldi Ananda Prasetya
-- **Pendidikan**: Mahasiswa di jurusan Ekonomi dan Bisnis
+- **Pendidikan**: Mahasiswa di jurusan Ekonomi dan Bisnis 
 - **Minat Utama**: Menggabungkan pemrograman dan teknologi untuk meningkatkan efisiensi dalam operasi bisnis
 
 ### Latar Belakang
@@ -40,4 +40,8 @@ Saya berkomitmen untuk terus mengembangkan keterampilan pemrograman dan teknolog
 
 Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang cara pemrograman dan teknologi dapat memperkuat bisnis, jangan ragu untuk menghubungi saya.
 
-Terima kasih!
+| Profile Summary | Streaks Stats |
+|---|---|
+| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAP1003&theme=tokyonight) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AAP1003&theme=tokyonight) |
+| Trophy | Top Language |
+| ![asd](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAP1003&theme=tokyonight)
