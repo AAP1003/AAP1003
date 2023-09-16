@@ -1,4 +1,4 @@
-# Halo! saya Aldi Ananda Prasetya
+# Halo!
 
 ## Ekonomi dan Bisnis
 - **Nama**: Aldi Ananda Prasetya
