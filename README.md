@@ -44,4 +44,4 @@ Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang cara 
 |---|---|
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAP1003&theme=tokyonight) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AAP1003&theme=tokyonight) |
 | Trophy | Top Language |
-| ![asd](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAP1003&theme=tokyonight)
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AAP1003&theme=tokyonight)
