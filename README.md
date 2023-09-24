@@ -1,6 +1,5 @@
 # Halo!
 
-## Ekonomi dan Bisnis
 - **Nama**: Aldi Ananda Prasetya
 - **Pendidikan**: Mahasiswa di jurusan Ekonomi dan Bisnis 
 - **Minat Utama**: Menggabungkan pemrograman dan teknologi untuk meningkatkan efisiensi dalam operasi bisnis
