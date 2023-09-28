@@ -1,16 +1,16 @@
 # Halo!
 
-- **Nama**: Aldi Ananda Prasetya
-- **Pendidikan**: Mahasiswa di jurusan Ekonomi dan Bisnis 
-- **Minat Utama**: Menggabungkan pemrograman dan teknologi untuk meningkatkan efisiensi dalam operasi bisnis
+- **Name**: Aldi Ananda Prasetya
+- **Education**: Students majoring in Economics and Business
+- **Primary Interests**: Combining programming and technology to increase efficiency in business operations
 
-### Latar Belakang
-Saya adalah seorang mahasiswa di bidang Ekonomi dan Bisnis dengan minat kuat dalam mengintegrasikan teknologi dan pemrograman ke dalam dunia bisnis. Saya percaya bahwa pemahaman yang kuat tentang ekonomi, statistika, dan pemrograman dapat memberikan keunggulan kompetitif dalam mengambil keputusan bisnis yang informasional dan efisien.
+### Background
+I am a student in Economics and Business with a strong interest in integrating technology and programming into the business world. I believe that a strong understanding of economics, statistics, and programming can provide a competitive advantage in making informational and efficient business decisions.
 
-### Penggunaan Statistik Bisnis
-Saya memanfaatkan bahasa pemrograman seperti Python dan R untuk analisis data bisnis, melakukan web scraping untuk mengumpulkan data pasar dan pesaing, mengembangkan model machine learning untuk prediksi perilaku pelanggan, serta mengoptimalkan strategi SEO untuk meningkatkan visibilitas situs web bisnis.
+### Uses of Business Statistics
+I use programming languages ​​such as Python and R to analyze business data, perform web scraping to collect market and competitor data, develop machine learning models to predict customer behavior, and optimize SEO strategies to increase the visibility of business websites.
 
-## Pemrograman
+## Programming
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -22,22 +22,22 @@ Saya memanfaatkan bahasa pemrograman seperti Python dan R untuk analisis data bi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-- **Bahasa Pemrograman**: Python, R, JavaScript, HTML, CSS
-- **Keahlian Tambahan**: Pembuatan dan pengelolaan situs web, pengoptimalan performa, keamanan web, SEO
-- **Tujuan**: Mempelajari dan mengintegrasikan pemrograman untuk mengelola dan mengoptimalkan operasi bisnis serta pembuatan situs web yang efisien
+- **Programming Languages**: Python, R, JavaScript, HTML, CSS
+- **Additional Skills**: Website creation and management, performance maintenance, web security, SEO
+- **Goal**: Learn and integrate programming to manage and optimize business operations and create efficient websites
 
-### Kemampuan Pemrograman
-- **Statistik**: Saya memiliki pemahaman mendalam tentang Python dan R, dan saya menggunakannya untuk menganalisis data bisnis dan mengembangkan solusi berbasis data.
-- **Web Development**: Saya dapat menggunakan HTML, CSS, dan JavaScript untuk membuat dan mengelola situs web bisnis yang sesuai dengan kebutuhan saya.
-- **Keamanan dan SEO**: Saya memahami praktik terbaik dalam keamanan web dan SEO untuk meningkatkan visibilitas online bisnis saya.
+### Programming Capabilities
+- **Statistics**: I have a deep understanding of Python and R, and I enjoy analyzing business data and developing data-driven solutions.
+- **Web Development**: I can use HTML, CSS, and JavaScript to create and manage business websites that suit my needs.
+- **Security and SEO**: I understand best practices in web security and SEO to increase my business's online visibility.
 
-### Pengembangan Situs Web
-Saya juga memiliki keahlian dalam pengembangan situs web, yang memungkinkan saya untuk membuat dan mengelola situs web bisnis saya sendiri. Ini memberi saya kendali penuh atas penampilan dan fungsionalitas situs web serta membantu meningkatkan efisiensi operasi bisnis saya.
+### Website Development
+I also have expertise in website development, which allows me to create and manage my own business websites. This gives me complete control over the appearance and functionality of the website and helps increase the efficiency of my business operations.
 
-### Masa Depan
-Saya berkomitmen untuk terus mengembangkan keterampilan pemrograman dan teknologi saya untuk mengambil manfaat penuh dari perkawinan antara ekonomi, bisnis, dan teknologi. Saya juga berharap untuk terus menjelajahi inovasi baru dalam bisnis dan teknologi untuk mengoptimalkan operasi bisnis dan pengambilan keputusan.
+### Future
+I am committed to continuing to develop my programming and technology skills to take full advantage of the marriage between economics, business, and technology. I also hope to continue exploring new innovations in business and technology to optimize business operations and decision making.
 
-Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang cara pemrograman dan teknologi dapat memperkuat bisnis, jangan ragu untuk menghubungi saya.
+If you're interested in collaborating or talking more about how programming and technology can strengthen businesses, don't hesitate to contact me.
 
 | Profile Summary | Streaks Stats |
 |---|---|
