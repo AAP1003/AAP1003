@@ -39,8 +39,4 @@ I am committed to continuing to develop my programming and technology skills to 
 
 If you're interested in collaborating or talking more about how programming and technology can strengthen businesses, don't hesitate to contact me.
 
-| Profile Summary | Streaks Stats |
-|---|---|
-| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAP1003&theme=tokyonight) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AAP1003&theme=tokyonight) |
-| Trophy | Top Language |
-| ![Trophy](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AAP1003)](https://github.com/AAP1003)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AltQwerty&theme=dracula)
