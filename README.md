@@ -43,4 +43,4 @@ If you're interested in collaborating or talking more about how programming and 
 |---|---|
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAP1003&theme=tokyonight) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AAP1003&theme=tokyonight) |
 | Trophy | Top Language |
-| ![Trophy](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AAP1003&theme=tokyonight)
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=AAP1003&theme=tokyonight) | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AAP1003)](https://github.com/AAP1003)
