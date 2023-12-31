@@ -37,6 +37,4 @@ I also have expertise in website development, which allows me to create and mana
 ### Future
 I am committed to continuing to develop my programming and technology skills to take full advantage of the marriage between economics, business, and technology. I also hope to continue exploring new innovations in business and technology to optimize business operations and decision making.
 
-If you're interested in collaborating or talking more about how programming and technology can strengthen businesses, don't hesitate to contact me.
-
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AltQwerty&theme=dracula)
