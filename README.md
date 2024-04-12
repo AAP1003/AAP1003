@@ -9,7 +9,7 @@ x
 
 <br>
 
-<img src="./Images/Bs2.gif">
+<img src="./Images/Bs2.gif" alt="gif" loop>
 Economic And Bussiness Student
 
 ---
