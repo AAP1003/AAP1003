@@ -9,7 +9,7 @@ x
 
 <br>
 
-<img src="./Images/Bs2.gif" alt="gif" loop>
+<!-- <img src="./Images/Bs2.gif" alt="gif" loop> -->
 Economic And Bussiness Student
 
 ---
@@ -18,9 +18,9 @@ Economic And Bussiness Student
 
 </div>
 
-### <b>Want to know what we learned? Check this out</b>
+<!-- ### <b>Want to know what we learned? Check this out</b> -->
 
-<table align="center">
+<!-- <table align="center">
         <thead>
             <tr>
                 <th>Beginner</th>
@@ -46,7 +46,7 @@ Economic And Bussiness Student
                 </td>
             </tr>
         </tbody>
-    </table>
+    </table> 
 
 <table align="center">
         <thead>
@@ -79,7 +79,7 @@ Economic And Bussiness Student
         </tbody>
     </table>
 
-<table align="center">
+<table align="center"> 
         <thead>
             <tr>
                 <th>Proficient</th>
@@ -125,7 +125,7 @@ Economic And Bussiness Student
         </tbody>
     </table>
 
-<table align="center">
+<table align="center"> 
         <thead>
             <tr>
                 <th>Expert</th>
