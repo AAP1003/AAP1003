@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Hi there, I'm AltQwerty ✨</h1>
 
-<h6>Welcome to my <b>README.MD</b>
+<h5>Welcome to my <b>README.MD</b>
 
 I am a student in Economics and Business with a strong interest in integrating technology and programming into the business world. I believe that a strong understanding of economics, statistics, and programming can provide a competitive advantage in making informational and efficient business decisions.
 x   
-</h6>
+</h5>
 
 <br>
 
@@ -17,9 +17,9 @@ Economic And Bussiness Student
 <b>Programming skills?</b> I have nothing to show you guys who are better than me.
 
 
-
+<h6>
 This [Kelas Terbuka Team organization](https://github.com/Discord-Kelas-Terbuka) is under the auspices of the [Kelas Terbuka](https://github.com/kelasterbuka). Kelas Terbuka Team Orginazation has implemented several projects that have been implemented including [KT Discord bot](https://discord.gg/NEBqnst6MQ), [KT Web](https://www.kelasterbuka.biz.id) and several other projects that are still under development as an Kelas Terbuka moderator.
-
+</h6>
 
 </div>
 
