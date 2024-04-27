@@ -16,6 +16,7 @@ Economic And Bussiness Student
 
 <b>Programming skills?</b> I have nothing to show you guys who are better than me.
 
+This [Kelas Terbuka Team organization](https://github.com/Discord-Kelas-Terbuka) is under the auspices of the [Kelas Terbuka](https://github.com/kelasterbuka)
 </div>
 
 <!-- ### <b>Want to know what we learned? Check this out</b> -->
