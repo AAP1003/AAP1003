@@ -16,10 +16,7 @@ Economic And Bussiness Student
 
 <b>Programming skills?</b> I have nothing to show you guys who are better than me.
 
-
-<h6>
-This [Kelas Terbuka Team organization](https://github.com/Discord-Kelas-Terbuka) is under the auspices of the [Kelas Terbuka](https://github.com/kelasterbuka). Kelas Terbuka Team Orginazation has implemented several projects that have been implemented including [KT Discord bot](https://discord.gg/NEBqnst6MQ), [KT Web](https://www.kelasterbuka.biz.id) and several other projects that are still under development as an Kelas Terbuka moderator.
-</h6>
+This [Kelas Terbuka team organization](https://github.com/Discord-Kelas-Terbuka) is under the auspices of the [Kelas Terbuka](https://github.com/kelasterbuka). Kelas Terbuka Team Orginazation has implemented several projects that have been implemented including [KT Discord bot](https://discord.gg/NEBqnst6MQ), [KT Web](https://www.kelasterbuka.biz.id) and several other projects that are still under development as an Kelas Terbuka moderator.
 
 </div>
 
