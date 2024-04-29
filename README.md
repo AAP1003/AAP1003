@@ -7,10 +7,8 @@ I am a student in Economics and Business with a strong interest in integrating t
 x   
 </h5>
 
-<br>
 
 <!-- <img src="./Images/Bs2.gif" alt="gif" loop> -->
-Economic And Bussiness Student
 
 ---
 
