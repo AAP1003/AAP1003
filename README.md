@@ -1,8 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm AltQwerty ✨</h1>
 
-<h5>Welcome to my <b>README.MD</b>
-
 I am a student in Economics and Business with a strong interest in integrating technology and programming into the business world. I believe that a strong understanding of economics, statistics, and programming can provide a competitive advantage in making informational and efficient business decisions.
 x   
 </h5>
