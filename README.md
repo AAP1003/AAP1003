@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,ts,python,react,tailwindcss,docker,github,mui,postman,mongo,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,react,tailwindcss,docker,github,mui,postman,mongo,nodejs,express)](https://skillicons.dev)
 
 <p>
     💼 SO @ UEU • Front-end dev • Platform Engineer
