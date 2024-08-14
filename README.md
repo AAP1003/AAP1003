@@ -9,8 +9,8 @@
 <p>
     💼 SO @ UEU • Front-end dev • Platform Engineer
     💻 System programming languages • DevOps  
-    📖 Operating system works • Implement the operating system works
-    🎮 Music • Games • Anime • Code • Art • Orchestra • Sleeping
+    📖 Operating & implement system works
+    🎮 Music • Games • Anime • Code • Art
     🐾 Eagle 🦅 • Cake & Kebab & Burger
 </p>
 
