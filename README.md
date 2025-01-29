@@ -7,10 +7,9 @@
 
 ### 🚀 **About Me**
 - 🎓 Management Student | Tech Enthusiast  
-- 💻 Passionate in **Backend Development** using **Go** & MERN Stack  
+- 💻 Passionate in **Web Development** using **Javascript** & MERN Stack  
 - 🌱 Currently learning **Next.js** & scalable backend architectures  
 - 📢 Running a community: **[Kelas Terbuka](https://github.com/Discord-Kelas-Terbuka)**
-- 🎯 Open for collaboration & knowledge sharing!  
 
 ---
 
