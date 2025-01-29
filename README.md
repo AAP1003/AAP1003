@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm AltQwerty 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=478778&center=true&width=450&lines=Web+Developer+|+MERN+Enthusiast;Love+to+Code+%26+Build+Awesome+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0BDA51&center=true&width=450&lines=Web+Developer+|+MERN+Enthusiast;Love+to+Code+%26+Build+Awesome+Things" alt="Typing SVG" />
 </p>
 
 ---
